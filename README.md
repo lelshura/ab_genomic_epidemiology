@@ -27,7 +27,7 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 - Cleaning and standardization of isolate metadata  
 - Classification of clinical sources (blood, urine, respiratory, wound/tissue)  
-- Identification of antimicrobial resistance genes (AMRFinderPlus)  
+- Identification of antimicrobial resistance genes using AMRFinderPlus  
 - Aggregation and visualization of ST distributions  
 - Chi-square testing of ST and source associations  
 - Integration with NCBI SNP cluster data  
@@ -37,7 +37,7 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 ## Data
 
-- Clinical isolate metadata  
+- Clinical metadata for *A. baumannii* isolates collected between 2020–2024 across 55 hospitals in Saudi Arabia, including bloodstream, respiratory, urinary, and wound infections  
 - NCBI Pathogen Detection (`isolates.tsv`)  
 - SNP cluster assignments and phylogenetic trees  
 
@@ -45,5 +45,6 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 ## Acknowledgments
 
-This work was conducted during a visiting research internship at King Abdullah University of Science and Technology (KAUST) in the Infectious Disease Epidemiology (IDE) Lab, under the supervision of Dr. Danesh Moradigaravand.
-https://ide.kaust.edu.sa/
+This work was conducted during a visiting research internship at King Abdullah University of Science and Technology (KAUST) in the Infectious Disease Epidemiology Lab, under the supervision of Dr. Danesh Moradigaravand.
+
+Lab website: https://ide.kaust.edu.sa/
