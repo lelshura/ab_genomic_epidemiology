@@ -43,14 +43,6 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 ---
 
-## Repository Structure
-
-scripts/ # Analysis scripts
-results/ # Figures and output tables
-docs/ # Notes
-
----
-
 ## Acknowledgments
 
 This work was conducted during a visiting research internship at King Abdullah University of Science and Technology (KAUST).
