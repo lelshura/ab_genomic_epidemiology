@@ -37,7 +37,7 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 ## Data
 
-- Clinical metadata for *A. baumannii* isolates collected between 2020–2024 across 55 hospitals in Saudi Arabia, including bloodstream, respiratory, urinary, and wound infections  
+- Clinical metadata for *A. baumannii* isolates collected between 2020–2024 across 55 hospitals in Saudi Arabia
 - NCBI Pathogen Detection (`isolates.tsv`)  
 - SNP cluster assignments and phylogenetic trees  
 
