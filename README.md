@@ -45,4 +45,5 @@ The analysis also incorporates global data from NCBI Pathogen Detection to place
 
 ## Acknowledgments
 
-This work was conducted during a visiting research internship at King Abdullah University of Science and Technology (KAUST).
+This work was conducted during a visiting research internship at King Abdullah University of Science and Technology (KAUST) in the Infectious Disease Epidemiology (IDE) Lab, under the supervision of Dr. Danesh Moradigaravand.
+https://ide.kaust.edu.sa/
